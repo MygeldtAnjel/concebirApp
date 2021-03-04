@@ -7,6 +7,13 @@
    export const REGISTER='Register';
 
    //Screens Private
-   export const INICIO= 'Inicio';
+   export const HOME= 'Home';
+   export const CITAS= 'Citas';
+   export const DOCTORES= 'Doctores';
+   export const PERFIL= 'Perfil';
+   export const SEDES='Sedes';
+   export const RESERVAR= 'Reservar';
+   export const DOCTOR_SCREEN= 'Doctor_Screen';
+   export const SEARCH_SCREEN= 'Search_Screen';
 
    

@@ -38,7 +38,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -53,5 +53,48 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DIN Pro 400.otf</string>
+		<string>DIN Pro Black 900.otf</string>
+		<string>DIN Pro Black Italic 900.otf</string>
+		<string>DIN Pro Bold 700.otf</string>
+		<string>DIN Pro Bold Italic 700.otf</string>
+		<string>DIN Pro Condensed Black 900.otf</string>
+		<string>DIN Pro Condensed Black Italic 900.otf</string>
+		<string>DIN Pro Condensed Bold 700.otf</string>
+		<string>DIN Pro Condensed Bold Italic 700.otf</string>
+		<string>DIN Pro Condensed Italic 400.otf</string>
+		<string>DIN Pro Condensed Light 300.otf</string>
+		<string>DIN Pro Condensed Light Italic 300.otf</string>
+		<string>DIN Pro Condensed Medium 500.otf</string>
+		<string>DIN Pro Condensed Medium Italic 500.otf</string>
+		<string>DIN Pro Condensed Regular 400.otf</string>
+		<string>DIN Pro Italic 400.otf</string>
+		<string>DIN Pro Light 300.otf</string>
+		<string>DIN Pro Light Italic 300.otf</string>
+		<string>DIN Pro Medium 500.otf</string>
+		<string>DIN Pro Medium Italic 500.otf</string>
+		<string>Notable-Regular.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Roboto_medium.ttf</string>
+		<string>Roboto.ttf</string>
+		<string>rubicon-icon-font.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
 </dict>
 </plist>

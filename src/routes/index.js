@@ -1,12 +1,11 @@
 import * as React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
-import {Dimensions} from 'react-native';
 import Toast from 'react-native-toast-message';
 
 import {USER_TOKEN,USER_INFO} from '../utils/consts';
 import UserStack from './UserStack';
 import RootStack from './RootStack';
-import SplashScreen from '../screens/Splashscreen';
+import SplashScreen from '../screens/SplashScreen';
 import {getItem} from '../utils/storage';
 //Context General
 import {RETRIEVE_TOKEN} from '../utils/actionTypes';

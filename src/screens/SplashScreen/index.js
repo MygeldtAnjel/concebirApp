@@ -1,5 +1,5 @@
 import React,{Fragment} from 'react';
-import {StatusBar,Image} from 'react-native';
+import {StatusBar,Image,View} from 'react-native';
 
 import styles from './style';
 import SplashImage from '../../../assets/splash.png';
